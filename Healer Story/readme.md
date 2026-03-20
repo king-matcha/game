@@ -9,10 +9,7 @@ https://king-matcha.itch.io/healer-story
 ## 🕹️ Controls
 
 - Click / Tap: Heal allies
-- 1: Attack Buff
-- 2: Defense Buff
-- 3: Move Speed Buff
-- 4: Attack Speed Buff
+- 1: Buff
 
 ---
 
